@@ -1,0 +1,16 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madantamang/aspnetcore-demo-heroku.git"
+  },
+  "scripts": {
+      "preinstall": "npm list bower -g || npm install bower -g",
+      "postinstall": "bower cache clean"
+  },
+  "homepage": "https://github.com/madantamang/aspnetcore-demo-heroku#readme",
+  "dependencies": {
+  }
+}
