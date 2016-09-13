@@ -1,4 +1,4 @@
-# asp.net-core_deploy_on_heroku
+# asp.net core application built to deploy on Heroku
 An ASP.NET Core website has been developed using ASP.NET Core open source.
 <br/>
 <br/>
